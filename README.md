@@ -80,6 +80,9 @@ An enclosure and hardware design for a precision tweezers grinder built during t
   <img width="3072" height="4096" alt="IMG_20260620_135519" src="https://github.com/user-attachments/assets/f6217956-919b-405f-9f29-312f2b370170" />
   <img width="3072" height="4096" alt="IMG_20260620_135528" src="https://github.com/user-attachments/assets/2ef09f8d-8820-4c3d-852e-370cdf1c0435" />
 
+  #Video Of Working Project
+  https://www.youtube.com/shorts/dYoDzPScT6I
+
   ## 📂 Project Repository Files
 
 <details>
