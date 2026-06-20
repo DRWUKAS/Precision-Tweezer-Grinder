@@ -2,7 +2,7 @@
 
 An enclosure and hardware design for a precision tweezers grinder built during the Hack Club Stasis hackathon. This device provides a stable, motorized solution for sharpening and maintaining precision tools.
 
-🌐 **OnShape CAD Workspace:** [Live 3D CAD Model](https://onshape.com)
+🌐 **OnShape CAD Workspace:** https://cad.onshape.com/documents/27c54b4b3d9ffb5c67df1a65/w/bfb7f68973eb2576e4aceb32/e/55b7abdc1bfcae4972785b61?renderMode=0&uiState=6a36ccd02e90be760462adf4
 
 ---
 
