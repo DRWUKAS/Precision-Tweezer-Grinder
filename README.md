@@ -80,3 +80,27 @@ An enclosure and hardware design for a precision tweezers grinder built during t
   <img width="3072" height="4096" alt="IMG_20260620_135519" src="https://github.com/user-attachments/assets/f6217956-919b-405f-9f29-312f2b370170" />
   <img width="3072" height="4096" alt="IMG_20260620_135528" src="https://github.com/user-attachments/assets/2ef09f8d-8820-4c3d-852e-370cdf1c0435" />
 
+  ## 📂 Project Repository Files
+
+<details>
+<summary>📦 <b>Click to expand individual CAD & 3D Print Files</b></summary>
+
+### 🛠️ Master CAD Source Files (.step)
+* 💾 [Assembly 1.step](./Assembly%201.step)
+* 💾 [Bottom Half.step](./Bottom%20Half.step)
+* 💾 [Motor.step](./Motor.step)
+* 💾 [Precision tweezers Main Body.step](./Precision%20tweezers%20Main%20Body.step)
+* 💾 [Switch.step](./Switch.step)
+* 💾 [Top Spinner.step](./Top%20Spinner.step)
+* 💾 [USB.step](./USB.step)
+
+### 🖨️ 3D Printable Mesh Files (.stl)
+* 🧩 [Assembly 1.stl](./Assembly%201.stl)
+* 🧩 [Bottom Half (3).stl](./Bottom%20Half%20(3).stl)
+* 🧩 [Motor.stl](./Motor.stl)
+* 🧩 [Precision tweezers Main Body (2).stl](./Precision%20tweezers%20Main%20Body%20(2).stl)
+* 🧩 [Switch.stl](./Switch.stl)
+* 🧩 [Top Spinner (2).stl](./Top%20Spinner%20(2).stl)
+* 🧩 [USB.stl](./USB.stl)
+
+
